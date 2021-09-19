@@ -1,0 +1,23 @@
+#info {
+    background: rgb(161, 211, 223);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+}
+
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-dul {
+    margin: 20px;
+}
+
+.info-dul img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 7px solid rgb(23, 228, 243);
+}

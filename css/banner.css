@@ -1,0 +1,35 @@
+#banner{
+    margin-top: 50px;
+    position: relative;
+}
+
+#banner img{
+    width: 100%;
+}
+
+
+#banner .contenedor{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(0, 0, 0);
+  
+}
+
+#banner h2 {
+    font-size: 28px;
+
+}
+
+#banner a{
+    display: block;
+    background-color: rgb(161, 223, 218);
+    width: 100px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 7px;
+    margin-top: 10px;
+    border: 1px solid rgb(223, 161, 161);
+   
+}
